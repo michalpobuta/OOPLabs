@@ -134,3 +134,6 @@ public class HotelManagement implements RoomManagement, ClientManagement, Reserv
   </p>
   </details>
 
+# Additional tasks 
+
+<a href="https://www.codewars.com/kata/search/java?q=&tags=Object-oriented%20Programming&beta=false&order_by=popularity%20desc/">Click Here!</a>
